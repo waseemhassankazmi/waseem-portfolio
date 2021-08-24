@@ -367,7 +367,7 @@ img {
 
 .banner-area {
   /* background-image: url(../images/home/Home-img.jpg); */
-   /*--edit image--*/
+  /*--edit image--*/
   background-position: center;
   background-size: cover;
   position: relative;
@@ -479,7 +479,17 @@ canvas {
   color: #222;
   margin-bottom: 50px;
 }
-
+.buttonlist {
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  background: #ff5454;
+  padding: 15px;
+  float: inline-end;
+  left: 43%;
+  text-decoration: none;
+  position: relative;
+}
 .button {
   color: #fff;
   font-size: 14px;
