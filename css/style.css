@@ -881,3 +881,24 @@ canvas {
 .donation {
   font-size: 12px;
 }
+
+
+#backToTopBtn {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  z-index: 100;
+  font-size: 18px;
+  padding: 10px 15px;
+  border: none;
+  background-color: #3e698e;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  display: none;
+  transition: opacity 0.3s ease;
+}
+
+#backToTopBtn:hover {
+  background-color: #2c4d6b;
+}
