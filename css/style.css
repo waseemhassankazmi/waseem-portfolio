@@ -881,36 +881,3 @@ canvas {
 .donation {
   font-size: 12px;
 }
-
-
-.skills {
-  padding: 2rem;
-  background-color: #f9f9f9;
-}
-
-.skills h2 {
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 1rem;
-  text-align: center;
-}
-
-.skills-grid div {
-  padding: 1rem;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  font-weight: 500;
-  transition: 0.3s;
-}
-
-.skills-grid div:hover {
-  background-color: #e6f0ff;
-  border-color: #3399ff;
-}
