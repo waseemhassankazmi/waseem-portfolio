@@ -78,7 +78,7 @@ NB: This is the responsive stylesheet of this theme.
     }
 
     .navbar-toggle .icon-bar {
-        background: #E91E63;
+        background: #FF5454;
     }
 
     .navbar-nav {
@@ -123,7 +123,7 @@ NB: This is the responsive stylesheet of this theme.
     }
 
     .welcome-text h1.ah-headline {
-        font-size: 20px;
+        font-size: 20px !important;
     }
 
     .welcome-text h3 {
